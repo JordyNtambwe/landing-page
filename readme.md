@@ -1,0 +1,1 @@
+This is the second project/assignment from The Odin Project. This project involes using tools such as CSS and flexbox to create an entire webpage from a design The Odin Project provides.
