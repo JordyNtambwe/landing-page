@@ -120,7 +120,6 @@ button {
   font-size: 36px;
   width: 800px;
   padding: 120px;
-  font-weight: 
 }
 
 .quote-speaker {
@@ -129,4 +128,27 @@ button {
   font-size: 25px;
   font-weight: bold;
   color: #1F2937;
+}
+
+.button-container {
+  background-color: #3882F6;
+  margin: 90px 160px;
+  padding: 60px 120px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.button-content {
+  color: white;
+  font-size: 25px;
+}
+
+.button-main-text {
+  font-weight: bold;
+}
+
+.sign-up-text {
+  font-size: 15px;
+  font-weight: bold;
 }
