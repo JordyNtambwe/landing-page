@@ -11,25 +11,25 @@ body {
   padding-bottom: 150px;
 }
 
-.header-logo {
+.logo {
   font-size: 24px;
   margin-bottom: 100px;
 }
 
-.title {
+.header-title {
   font-size: 48px;
   font-weight: 900px;
   margin-bottom: 10px;
   width: 400px;
 }
 
-.text {
+.header-text {
   font-size: 18px;
   color: #E5E7EB;
   line-height: 0px;
 }
 
-button {
+.header-sign-up-button {
   color: white;
   background-color: #3882F6;
   margin-top: 20px;
@@ -57,9 +57,4 @@ ul {
   height: 250px;
   width: 550px;
   margin-top: 110px;
-}
-
-.left-side,
-.right-side {
-  padding: 0px;
 }
