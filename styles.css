@@ -58,3 +58,36 @@ ul {
   width: 550px;
   margin-top: 110px;
 }
+
+.body-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 60px;
+}
+
+.body-title {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+  margin-top: 60px;
+}
+
+.border-image {
+  border: 5px solid #3882F6;
+  border-radius: 20px;
+  height: 175px;
+  width: 175px;
+}
+
+.body-content {
+  max-width: 185px;
+  text-align: center;
+}
+
+.subtext {
+  font-size: 20px;
+  margin-top: 10px;
+  color: grey;
+}
