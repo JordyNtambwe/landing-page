@@ -91,3 +91,25 @@ ul {
   margin-top: 10px;
   color: grey;
 }
+
+.quote-container {
+  background-color: #E5E7EB;
+  padding: 120px;
+  margin-top: 140px;
+  display: flex;
+  justify-content: center;
+}
+
+.quote-text {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300px;
+  width: 810px;
+}
+
+.author {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: bold;
+  font-size: 25px;
+}
