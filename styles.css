@@ -114,3 +114,34 @@ ul {
   font-size: 25px;
   padding-right: 50px;
 }
+
+.blue-container {
+  background-color:#3882F6;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 90px 700px;
+  padding: 60px 0px;
+  border-radius: 10px;
+}
+
+.blue-container-header {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.blue-container-text {
+  color: white;
+  font-size: 18px;
+}
+
+.blue-container-sign-up {
+  background-color: #3882F6;
+  border: solid white;
+  color: white;
+  font-size: 18px;
+  padding: 10px 40px;
+  border-radius: 10px;
+  font-weight: bold;
+}
