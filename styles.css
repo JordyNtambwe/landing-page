@@ -156,3 +156,14 @@ ul {
   padding: 10px 40px;
   border: solid white;
 }
+
+.footer-container {
+  background-color: #1F2937;
+}
+
+.footer-text {
+  color: white;
+  text-align: center;
+  padding: 80px;
+  font-size: 18px;
+}
