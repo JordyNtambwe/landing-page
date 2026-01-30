@@ -128,3 +128,31 @@ ul {
   justify-content: flex-end;
   padding-right: 45px;
 }
+
+.sign-up-container {
+  background-color: #3882F6;
+  border-radius: 10px;
+  color: white;
+  margin: 110px 420px;
+  padding: 70px 0px;
+  display: flex;
+  justify-content: space-around;
+}
+.sign-up-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.sign-up-subtext {
+  font-weight: 300;
+}
+
+.sign-up-button {
+  background-color: #3882F6;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px 40px;
+  border: solid white;
+}
